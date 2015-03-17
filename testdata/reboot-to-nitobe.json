@@ -1,0 +1,314 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 49.2672006,
+               "lng" : -123.2481119
+            },
+            "southwest" : {
+               "lat" : 49.2610379,
+               "lng" : -123.2601492
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.4 km",
+                  "value" : 1428
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 988
+               },
+               "end_address" : "6427-6549 Northwest Marine Drive, Vancouver, BC V6T, Canada",
+               "end_location" : {
+                  "lat" : 49.2670277,
+                  "lng" : -123.2601492
+               },
+               "start_address" : "2358 Engineering Road, The University of British Columbia, Vancouver, BC V6T 1Z4, Canada",
+               "start_location" : {
+                  "lat" : 49.2610379,
+                  "lng" : -123.2481119
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "77 m",
+                        "value" : 77
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 55
+                     },
+                     "end_location" : {
+                        "lat" : 49.2616408,
+                        "lng" : -123.2486235
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eEngineering Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ohtkHt{foV}@t@y@n@"
+                     },
+                     "start_location" : {
+                        "lat" : 49.2610379,
+                        "lng" : -123.2481119
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 113
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 82
+                     },
+                     "end_location" : {
+                        "lat" : 49.2611339,
+                        "lng" : -123.2499396
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eStores Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gltkHz~foV?@B\\DPFFNh@BNFHHDFRR~@Pn@"
+                     },
+                     "start_location" : {
+                        "lat" : 49.2616408,
+                        "lng" : -123.2486235
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 109
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 79
+                     },
+                     "end_location" : {
+                        "lat" : 49.2619979,
+                        "lng" : -123.2506555
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eStores Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "aitkHbggoVsB~Ay@n@"
+                     },
+                     "start_location" : {
+                        "lat" : 49.2611339,
+                        "lng" : -123.2499396
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 154
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 100
+                     },
+                     "end_location" : {
+                        "lat" : 49.26189309999999,
+                        "lng" : -123.2525778
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eStores Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ontkHrkgoV@J@v@WTD\\AD?DF`B?@ZzA@@@H@H?HAH?FAD?B"
+                     },
+                     "start_location" : {
+                        "lat" : 49.2619979,
+                        "lng" : -123.2506555
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 113
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 80
+                     },
+                     "end_location" : {
+                        "lat" : 49.2627925,
+                        "lng" : -123.2533092
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eWest Mall\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ymtkHrwgoVc@ZoCtB"
+                     },
+                     "start_location" : {
+                        "lat" : 49.26189309999999,
+                        "lng" : -123.2525778
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "47 m",
+                        "value" : 47
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 49.2625912,
+                        "lng" : -123.2538747
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eWest Mall\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mstkHd|goVf@nB"
+                     },
+                     "start_location" : {
+                        "lat" : 49.2627925,
+                        "lng" : -123.2533092
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 543
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 379
+                     },
+                     "end_location" : {
+                        "lat" : 49.2669047,
+                        "lng" : -123.2573954
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eWest Mall\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ertkHt_hoVmGxE]XsB~AyC~B{C|BwB~AON"
+                     },
+                     "start_location" : {
+                        "lat" : 49.2625912,
+                        "lng" : -123.2538747
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 191
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 133
+                     },
+                     "end_location" : {
+                        "lat" : 49.266758,
+                        "lng" : -123.2594185
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eNW Marine Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "cmukHvuhoVTtAEH[\\GDMJQf@Gr@Jx@Nj@HJJLTXNL"
+                     },
+                     "start_location" : {
+                        "lat" : 49.2669047,
+                        "lng" : -123.2573954
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "44 m",
+                        "value" : 44
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 49.2670948,
+                        "lng" : -123.2597338
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eNW Marine Dr\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "glukHjbioV[VURIFCBA@?@?@"
+                     },
+                     "start_location" : {
+                        "lat" : 49.266758,
+                        "lng" : -123.2594185
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "28 m",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : 49.2671024,
+                        "lng" : -123.2601187
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eNW Marine Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "inukHhdioVAD@B?H@F?FAJA\\"
+                     },
+                     "start_location" : {
+                        "lat" : 49.2670948,
+                        "lng" : -123.2597338
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "9 m",
+                        "value" : 9
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 49.2670277,
+                        "lng" : -123.2601492
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eNW Marine Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "knukHvfioVLD"
+                     },
+                     "start_location" : {
+                        "lat" : 49.2671024,
+                        "lng" : -123.2601187
+                     },
+                     "travel_mode" : "WALKING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ohtkHt{foVwBdBB^LXRx@PNZrAPn@sB~Ay@n@@J@v@WTBb@FfBZ|AD^CZc@ZoCtBf@nBkHrFmG~EcHlFTtAEHc@b@MJQf@Gr@Jx@Nj@HJ`@f@NL[V_@ZEH@ZARA\\LD"
+         },
+         "summary" : "West Mall",
+         "warnings" : [
+            "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,384 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 49.2696002,
+               "lng" : -123.2470088
+            },
+            "southwest" : {
+               "lat" : 49.26144679999999,
+               "lng" : -123.2603133
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.6 km",
+                  "value" : 1596
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1104
+               },
+               "end_address" : "6476 Northwest Marine Drive, The University of British Columbia, Vancouver, BC V6T 1Z2, Canada",
+               "end_location" : {
+                  "lat" : 49.26655909999999,
+                  "lng" : -123.2603133
+               },
+               "start_address" : "2378-2386 East Mall, The University of British Columbia, Vancouver, BC V6T 1Z4, Canada",
+               "start_location" : {
+                  "lat" : 49.26144679999999,
+                  "lng" : -123.2470088
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 642
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 437
+                     },
+                     "end_location" : {
+                        "lat" : 49.2665401,
+                        "lng" : -123.2511733
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eE Mall N\u003c/b\u003e toward \u003cb\u003eEngineering Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "aktkHxtfoVw@d@_@X[Ry@n@w@h@uB`BsB~AaBnAi@d@c@\\uAjAeA|@YVYT{AfAmAz@"
+                     },
+                     "start_location" : {
+                        "lat" : 49.26144679999999,
+                        "lng" : -123.2470088
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "11 m",
+                        "value" : 11
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 49.26649159999999,
+                        "lng" : -123.2513087
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eAgricultural Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{jukHxngoVHZ"
+                     },
+                     "start_location" : {
+                        "lat" : 49.2665401,
+                        "lng" : -123.2511733
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "65 m",
+                        "value" : 65
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : 49.2670098,
+                        "lng" : -123.2517293
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eAgricultural Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qjukHtogoVgBrA"
+                     },
+                     "start_location" : {
+                        "lat" : 49.26649159999999,
+                        "lng" : -123.2513087
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 369
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 263
+                     },
+                     "end_location" : {
+                        "lat" : 49.2654435,
+                        "lng" : -123.2562096
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eAgricultural Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ymukHhrgoV`AxDV|@BJz@fDDRFRNl@f@vB\\tAz@nD"
+                     },
+                     "start_location" : {
+                        "lat" : 49.2670098,
+                        "lng" : -123.2517293
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 184
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 124
+                     },
+                     "end_location" : {
+                        "lat" : 49.2669047,
+                        "lng" : -123.2573954
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eWest Mall\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_dukHhnhoV{C|BwB~AON"
+                     },
+                     "start_location" : {
+                        "lat" : 49.2654435,
+                        "lng" : -123.2562096
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 191
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 133
+                     },
+                     "end_location" : {
+                        "lat" : 49.266758,
+                        "lng" : -123.2594185
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eNW Marine Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "cmukHvuhoVTtAEH[\\GDMJQf@Gr@Jx@Nj@HJJLTXNL"
+                     },
+                     "start_location" : {
+                        "lat" : 49.2669047,
+                        "lng" : -123.2573954
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "44 m",
+                        "value" : 44
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 49.2670948,
+                        "lng" : -123.2597338
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eNW Marine Dr\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "glukHjbioV[VURIFCBA@?@?@"
+                     },
+                     "start_location" : {
+                        "lat" : 49.266758,
+                        "lng" : -123.2594185
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "28 m",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : 49.2671024,
+                        "lng" : -123.2601187
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eNW Marine Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "inukHhdioVAD@B?H@F?FAJA\\"
+                     },
+                     "start_location" : {
+                        "lat" : 49.2670948,
+                        "lng" : -123.2597338
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "62 m",
+                        "value" : 62
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 49.26655909999999,
+                        "lng" : -123.2603133
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eNW Marine Dr\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "knukHvfioVx@VXFVD"
+                     },
+                     "start_location" : {
+                        "lat" : 49.2671024,
+                        "lng" : -123.2601187
+                     },
+                     "travel_mode" : "WALKING"
+                  }
+               ],
+               "via_waypoint" : []
+            },
+            {
+               "distance" : {
+                  "text" : "0.6 km",
+                  "value" : 618
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 489
+               },
+               "end_address" : "6265 Crescent Road, The University of British Columbia, Vancouver, BC V6T 1Z1, Canada",
+               "end_location" : {
+                  "lat" : 49.2692383,
+                  "lng" : -123.2552849
+               },
+               "start_address" : "6476 Northwest Marine Drive, The University of British Columbia, Vancouver, BC V6T 1Z2, Canada",
+               "start_location" : {
+                  "lat" : 49.26655909999999,
+                  "lng" : -123.2603133
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 428
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 313
+                     },
+                     "end_location" : {
+                        "lat" : 49.2696066,
+                        "lng" : -123.2570548
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eNW Marine Dr\u003c/b\u003e toward \u003cb\u003eTrail 4\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_kukH|gioVWEYGy@WICa@M[OKGGEMGQMUMi@_@IGIGGGUWg@q@[g@a@m@GMKUIOWo@Qc@s@iBQa@Se@"
+                     },
+                     "start_location" : {
+                        "lat" : 49.26655909999999,
+                        "lng" : -123.2603133
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "92 m",
+                        "value" : 92
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 101
+                     },
+                     "end_location" : {
+                        "lat" : 49.2689005,
+                        "lng" : -123.2563919
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eCrescent Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eTake the stairs\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "a~ukHpshoV@?RWPMZYp@e@TY@C"
+                     },
+                     "start_location" : {
+                        "lat" : 49.2696066,
+                        "lng" : -123.2570548
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "42 m",
+                        "value" : 42
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 49.26903,
+                        "lng" : -123.2559725
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCrescent Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "syukHlohoVA?A?A?AAA?CAA?AAAAACAAAA?CAAAC?AAC?C?CAC?C?A?C?C@C?C?C@A?C@C@C"
+                     },
+                     "start_location" : {
+                        "lat" : 49.2689005,
+                        "lng" : -123.2563919
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "56 m",
+                        "value" : 56
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 49.2692383,
+                        "lng" : -123.2552849
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eCrescent Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "mzukHxlhoVAU?AAIe@gB"
+                     },
+                     "start_location" : {
+                        "lat" : 49.26903,
+                        "lng" : -123.2559725
+                     },
+                     "travel_mode" : "WALKING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "aktkHxtfoVwA~@uAbAmDjCuEnDiFlEs@l@iDbCHZgBrAxAvFlAzEpCjLcHlFTtAEHc@b@MJQf@Gr@Jx@Nj@HJ`@f@NL[V_@ZEH@ZARA\\x@Vp@Lq@McA[}@]s@c@sA}@]_@cAyA_AaBoB_FQe@d@e@lA_AV]GAICKUC]BM@G?Yg@sB"
+         },
+         "summary" : "NW Marine Dr",
+         "warnings" : [
+            "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+         ],
+         "waypoint_order" : [ 0 ]
+      }
+   ],
+   "status" : "OK"
+}

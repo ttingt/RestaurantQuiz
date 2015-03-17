@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 49.2641406,
+               "lng" : -123.2486209
+            },
+            "southwest" : {
+               "lat" : 49.2634912,
+               "lng" : -123.2491545
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "82 m",
+                  "value" : 82
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 51
+               },
+               "end_address" : "Vancouver, BC V6T 1Z8, Canada",
+               "end_location" : {
+                  "lat" : 49.2641406,
+                  "lng" : -123.2491545
+               },
+               "start_address" : "2207-2251 East Mall, The University of British Columbia, Vancouver, BC V6T, Canada",
+               "start_location" : {
+                  "lat" : 49.2634912,
+                  "lng" : -123.2486209
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "82 m",
+                        "value" : 82
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 49.2641406,
+                        "lng" : -123.2491545
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eE Mall N\u003c/b\u003e toward \u003cb\u003eHospital Ln\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "ywtkHz~foVw@l@iAz@"
+                     },
+                     "start_location" : {
+                        "lat" : 49.2634912,
+                        "lng" : -123.2486209
+                     },
+                     "travel_mode" : "WALKING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ywtkHz~foVaChB"
+         },
+         "summary" : "E Mall N",
+         "warnings" : [
+            "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
